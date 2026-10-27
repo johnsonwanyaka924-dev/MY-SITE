@@ -1,0 +1,8 @@
+index.html - This is the homepage of Job Connect Uganda Limited.
+about.html - This page provides information about Job Connect Uganda Limited.
+services.html - This page describes the services offered by Job Connect Uganda Limited.
+jobs.html - This page displays available job opportunities.
+jobseekers.html - This page provides information and services for job seekers.
+employers.html - This page provides information and services for employers.
+news.html - This page provides the latest employment and company news.
+contact.html - This page provides contact information for Job Connect Uganda Limited.
